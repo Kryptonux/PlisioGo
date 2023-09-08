@@ -1,3 +1,3 @@
-module github.com/Kryptonux/plisio
+module github.com/Kryptonux/PlisioGo
 
 go 1.20
